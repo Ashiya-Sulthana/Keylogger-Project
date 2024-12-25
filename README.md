@@ -1,3 +1,3 @@
-# Keylogger-Project
+# Keylogger - Capture Every Keystroke
 
 This project is a simple keylogger program designed to capture and store keystrokes in a text file. The keylogger works by initializing and monitoring keystrokes, capturing each key pressed, and storing the data for later review. To run the program, navigate to the directory containing the keylogger, execute the program, type commands in different applications, and view the recorded keystrokes in the output file. The output will include a sequence of captured keystrokes, such as : key.cmdkey.downkey.downkey.enterkey.enterkey.shift'h''e''l''l''o''k''e''y''l''o''g''g''e''r''-''1''2''3'.
